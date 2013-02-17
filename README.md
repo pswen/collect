@@ -1,0 +1,4 @@
+collect
+=======
+
+system information collect
